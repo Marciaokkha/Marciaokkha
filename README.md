@@ -14,8 +14,7 @@
 ## ⚡ Techs that I use
 
 <div style="display: inline-block"><br/>
-<img width="39.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcitoyukio&layout=compact&theme=merko"/>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=marcitoyukio&show_icons=false&theme=merko"/>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcitoyukio&layout=compact&theme=merko"/>
 </div>
 
 ## 💡 I also like
