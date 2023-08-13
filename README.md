@@ -14,7 +14,6 @@
 
 <div style="display: inline block"><br/>
 <img width="500" src="https://github-readme-stats.vercel.app/api?username=marciaokkha&show_icons=true&theme=merko"/>
-<img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko"/>
 </div>
 
 ## Techs that I use
