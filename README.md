@@ -2,7 +2,7 @@
 
 #### About me: 
 
-🏫 Information Systems Student
+🏫 Information Systems Student at FIAP
 
 💼 Support Analyst at Inicie
 
