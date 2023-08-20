@@ -4,9 +4,13 @@
 
 🏫 Information Systems Student at FIAP
 
+🎯 Future Back-End Developer 🚀
+
 💼 Support Analyst at Inicie
 
-📍 São Paulo, Brazil 🇧🇷
+📌 From São Paulo, Brazil 🇧🇷
+
+📍 Living in São Paulo, Brazil 🇧🇷
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/marcio-yukio-135ab81b6/)
