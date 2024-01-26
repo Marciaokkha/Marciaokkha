@@ -4,9 +4,7 @@
 
 🏫 Information Systems Student at FIAP
 
-🎯 Future Back-End Developer 🚀
-
-💼 Support Analyst at Inicie
+💼 Back-End Developer 🚀
 
 📌 From São Paulo, Brazil 🇧🇷
 
